@@ -4545,8 +4545,13 @@ a.navbar-item,
   display: block;
   flex-grow: 0;
   flex-shrink: 0; }
+   @media only screen and (min-width: 900px) {
+      .navbar-item img {
+      max-height: 100%; 
+    }
+   }
   .navbar-item img {
-    max-height: 1.75rem; }
+    max-height: 3.75rem; }
   .navbar-item.has-dropdown {
     padding: 0; }
   .navbar-item.is-expanded {

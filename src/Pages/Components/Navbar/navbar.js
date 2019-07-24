@@ -31,12 +31,7 @@ class Navbar extends React.Component {
         <nav className="navbar" role="navigation" aria-label="main navigation">
           <div className="navbar-brand">
             <a className="navbar-item">
-              <img
-                src="http://aavartan.org/images/Aavartan.png"
-                width="112"
-                height="28"
-                alt="nav"
-              />
+              <img src="http://aavartan.org/images/Aavartan.png" alt="nav" />
             </a>
 
             <a
