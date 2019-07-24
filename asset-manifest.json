@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aavartan-website/static/css/main.8efefec4.chunk.css",
-    "main.js": "/aavartan-website/static/js/main.569c2e9e.chunk.js",
-    "main.js.map": "/aavartan-website/static/js/main.569c2e9e.chunk.js.map",
-    "runtime~main.js": "/aavartan-website/static/js/runtime~main.7217ea4f.js",
-    "runtime~main.js.map": "/aavartan-website/static/js/runtime~main.7217ea4f.js.map",
-    "static/js/2.4bb922b5.chunk.js": "/aavartan-website/static/js/2.4bb922b5.chunk.js",
-    "static/js/2.4bb922b5.chunk.js.map": "/aavartan-website/static/js/2.4bb922b5.chunk.js.map",
-    "index.html": "/aavartan-website/index.html",
-    "precache-manifest.c23891bf14f80d728cadcf4c83a6f8c9.js": "/aavartan-website/precache-manifest.c23891bf14f80d728cadcf4c83a6f8c9.js",
-    "service-worker.js": "/aavartan-website/service-worker.js",
-    "static/css/main.8efefec4.chunk.css.map": "/aavartan-website/static/css/main.8efefec4.chunk.css.map"
+    "main.css": "/aavartan-website/build/static/css/main.8efefec4.chunk.css",
+    "main.js": "/aavartan-website/build/static/js/main.39fb9f63.chunk.js",
+    "main.js.map": "/aavartan-website/build/static/js/main.39fb9f63.chunk.js.map",
+    "runtime~main.js": "/aavartan-website/build/static/js/runtime~main.e1779a07.js",
+    "runtime~main.js.map": "/aavartan-website/build/static/js/runtime~main.e1779a07.js.map",
+    "static/js/2.4bb922b5.chunk.js": "/aavartan-website/build/static/js/2.4bb922b5.chunk.js",
+    "static/js/2.4bb922b5.chunk.js.map": "/aavartan-website/build/static/js/2.4bb922b5.chunk.js.map",
+    "index.html": "/aavartan-website/build/index.html",
+    "precache-manifest.4b324e2f82cef0f15c93bc6c736ef989.js": "/aavartan-website/build/precache-manifest.4b324e2f82cef0f15c93bc6c736ef989.js",
+    "service-worker.js": "/aavartan-website/build/service-worker.js",
+    "static/css/main.8efefec4.chunk.css.map": "/aavartan-website/build/static/css/main.8efefec4.chunk.css.map"
   }
 }
