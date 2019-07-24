@@ -1,0 +1,46 @@
+.navbar {
+  background-color: transparent;
+}
+.nav-item-tabs {
+  font-family: "lato", sans-serif;
+  font-weight: 500 !important;
+
+  letter-spacing: 2px;
+  background: -webkit-linear-gradient(white, #38495a);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0px 10px;
+  padding: 10px 10px;
+}
+@media only screen and (min-width: 900px) {
+  .nav-item-tabs:before,
+  .nav-item-tabs:after {
+    position: absolute;
+    opacity: 0;
+    width: 0%;
+    height: 2px;
+    content: "";
+    background: #fff;
+    transition: all 0.3s;
+  }
+
+  .nav-item-tabs:before {
+    left: 0px;
+    top: 0px;
+  }
+
+  .nav-item-tabs:after {
+    right: 0px;
+    bottom: 0px;
+  }
+
+  .nav-item-tabs:hover:before,
+  .nav-item-tabs:hover:after {
+    opacity: 1;
+    width: 100%;
+  }
+  .navbar-end {
+    margin-right: 5px;
+  }
+}
