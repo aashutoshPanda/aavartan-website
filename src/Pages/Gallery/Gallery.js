@@ -1,9 +1,10 @@
 import React from "react";
-
+import StarBG from "../Components/StarBG/StarBG";
 function Gallery() {
   return (
     <div className="Gallery">
-      <div>Gallery Page</div>
+      <StarBG />
+      <div>Do Your Magic Here !</div>
     </div>
   );
 }

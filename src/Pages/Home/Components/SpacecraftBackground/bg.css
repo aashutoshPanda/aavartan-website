@@ -11,7 +11,27 @@ body {
   .Home{
     height: 100vh !important;
     width: 100vw !important;
+    
   }
+  .Team{
+    height: 100vh !important;
+    width: 100vw !important;
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
+  }
+  .Events{
+    height: 100vh !important;
+    width: 100vw !important;
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
+  }
+  .Gallery{
+    height: 100vh !important;
+    width: 100vw !important;
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
+  }
+ 
   .SpaceCraft{
     z-index: -1000;
     position: absolute;

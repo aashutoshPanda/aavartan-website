@@ -1,9 +1,10 @@
 import React from "react";
-
+import StarBG from "../Components/StarBG/StarBG";
 function Events() {
   return (
     <div className="Events">
-      <div>Events Page</div>
+      <StarBG />
+      <div>Do Your Magic Here !</div>
     </div>
   );
 }

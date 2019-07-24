@@ -49,16 +49,28 @@ class Navbar extends React.Component {
 
           <div id="navbarBasicExample" className="navbar-menu">
             <div className="navbar-end borderXwidth">
-              <a className="navbar-item nav-item-tabs  is-size-4 is-size-6-mobile">
+              <a
+                className="navbar-item nav-item-tabs  is-size-4 is-size-6-mobile"
+                href="./"
+              >
                 Home
               </a>
-              <a className="navbar-item nav-item-tabs is-size-4 is-size-6-mobile">
+              <a
+                className="navbar-item nav-item-tabs is-size-4 is-size-6-mobile"
+                href="./events"
+              >
                 Events
               </a>
-              <a className="navbar-item nav-item-tabs is-size-4 is-size-6-mobile">
+              <a
+                className="navbar-item nav-item-tabs is-size-4 is-size-6-mobile"
+                href="./gallery"
+              >
                 Gallery
               </a>
-              <a className="navbar-item nav-item-tabs is-size-4 is-size-6-mobile">
+              <a
+                className="navbar-item nav-item-tabs is-size-4 is-size-6-mobile"
+                href="./team"
+              >
                 Team
               </a>
 
