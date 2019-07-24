@@ -2,7 +2,7 @@
   "name": "aavartan-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aashutoshpanda.github.io/Airbnb/airbnb-design/build",
+  "homepage": "https://aashutoshpanda.github.io/aavartan-website",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
